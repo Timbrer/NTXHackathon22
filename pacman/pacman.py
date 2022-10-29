@@ -150,7 +150,7 @@ def initialize():
 	pygame.init()
 	icon_image = pygame.image.load(ICONPATH)
 	pygame.display.set_icon(icon_image)
-	screen = pygame.display.set_mode([606, 606])
+	screen = pygame.display.set_mode([606, 86])
 	pygame.display.set_caption('Pacman Game')
 	return screen
 
