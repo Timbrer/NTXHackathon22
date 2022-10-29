@@ -6,7 +6,7 @@ import os
 import sys
 import pygame
 import Levels
-
+os.chdir("/Users/thomasmullen/VSCodeProjects/NTXHackathon22/pacman")
 
 '''define parameters'''
 BLACK = (0, 0, 0)
